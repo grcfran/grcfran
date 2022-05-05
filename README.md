@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bauer027
-- 👀 I’m interested in Web Developing
+- 👀 I’m interested in Front-end Dev.
 - 🌱 I’m currently learning HTML, CSS and JS
 
 <!---
