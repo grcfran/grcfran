@@ -28,6 +28,3 @@ I'm actually learning to be a Front-end Developer at 16yo. I started to learn HT
 
 <a href="https://github.com/notfraaan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notfraaan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Support Me
-
-<a href="https://www.buymeacoffee.com/francogarcia"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
