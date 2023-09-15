@@ -7,7 +7,7 @@
 - 👨‍💻 All of my projects will be available at **my portfolio, coming soon.**
 - 📫 You can reach me at **francogarciadev@gmail.com**
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me</h3>
 <p align="center">
   <a href="https://linkedin.com/in/francogarcia06" target="blank"
     ><img
@@ -19,7 +19,7 @@
   /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and programs that I work with</h3>
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
