@@ -7,6 +7,8 @@
 
 - 👯 I’m looking to collaborate on **interesting front-end projects.**
 
+- 👨‍💻 All of my projects will be available at **my portfolio, coming soon.**
+
 - 📫 How to reach me **francogarciadev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
