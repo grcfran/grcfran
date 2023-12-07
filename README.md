@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Uruguay</h3>
 
 - 🔭 I’m currently working to **improve my development skills.**
-- 🌱 I’m currently learning **CSS, Bootstrap and JavaScript.**
+- 🌱 I’m currently learning **CSS, Bootstrap, JavaScript, Java and C#.**
 - 👯 I’m looking to collaborate on **interesting front-end projects.**
 - 👨‍💻 All of my projects will be available at **my portfolio, coming soon.**
 - 📫 You can reach me at **francogarciadev@gmail.com**
