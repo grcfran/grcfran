@@ -1,11 +1,11 @@
 <h1 align="center">Hi!👋 I'm Franco García</h1>
-<h3 align="center">A passionate frontend developer from Uruguay</h3>
+<h3 align="center">A passionate frontend developer from Uruguay 🇺🇾</h3>
 
 - 🔭 I’m currently working to **improve my development skills.**
 - 🌱 I’m currently learning **CSS, Bootstrap, JavaScript, Java and C#.**
-- 👯 I’m looking to collaborate on **interesting front-end projects.**
+- 👯 I’m looking to collaborate on **interesting development projects.**
 - 👨‍💻 All of my projects will be available at **my portfolio, coming soon.**
-- 📫 You can reach me at **francogarciadev@gmail.com**
+- 📫 You can reach me at **francogarciadev@outlook.com**
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
