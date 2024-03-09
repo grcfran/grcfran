@@ -1,5 +1,5 @@
 <h1 align="center">Hi!👋 I'm Franco García</h1>
-<h3 align="center">A passionate frontend developer from Uruguay 🇺🇾</h3>
+<h3 align="center">A passionate frontend developer from Uruguay (🇺🇾)</h3>
 
 - 🔭 I’m currently working to **improve my development skills.**
 - 🌱 I’m currently learning **CSS, Bootstrap, JavaScript, Java and C#.**
