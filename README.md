@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Uruguay (🇺🇾)</h3>
 
 # 💫 About Me:
-🔭 I’m currently working to improve my development skills.<br>🌱 I’m currently learning Full-Stack Development<br>👨‍💻 All of my projects will be available at my portfolio, coming soon.<br>📫 You can reach me at francogarciadev@outlook.com<br>
+🔭 I’m currently working to **improve my development skills.**<br>🌱 I’m currently learning **Full-Stack Development.**<br>👨‍💻 All of my projects will be available at **my portfolio, coming soon.**<br>📫 You can reach me at **francogarciadev@outlook.com**<br>
 
 
 ## 🌐 Socials:
