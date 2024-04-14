@@ -11,9 +11,7 @@ I'm a passionate student of Full-stack Development, in this profile you can find
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:francogarciadev@outlook.es)
 
 ## 💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,tailwind,php,py,)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=windows,vscode,powershell,git,github)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,tailwind,php,py,windows,vscode,powershell,git,github)](https://skillicons.dev)<br>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=grcfranco06&limit=5&theme=dark&combine_all_yearly_contributions=true)
