@@ -10,9 +10,9 @@ Welcome to my GitHub profile!
 [![Email](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/garciafranco06) 
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:francogarciadev@outlook.es)
 
-## <p align="center">💻 Tech Stack:</p>
+## <p align="center">💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,tailwind,php,py,)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=windows,vscode,powershell,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,vscode,powershell,git,github)](https://skillicons.dev)</p>
 
 
 ### 🔝 Top Contributed Repo
