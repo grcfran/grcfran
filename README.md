@@ -4,15 +4,15 @@
 # 🙋 About Me:
 Welcome to my GitHub profile! 
 
-<p>I'm a passionate student of Full-stack Development, in this profile you can find all my projects, their descriptions and repositories. I always try to learn in a autodidactic way. I am currently focused on perfecting all those skills I have acquired over time. Feel free to contact me via email or LinkedIn.</p>
+I'm a passionate student of Full-stack Development, in this profile you can find all my projects, their descriptions and repositories. I always try to learn in a autodidactic way. I am currently focused on perfecting all those skills I have acquired over time. Feel free to contact me via email or LinkedIn.
 
-## <p align="center">🌐 Socials:</p>
+## 🌐 Socials:
 [![Email](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/garciafranco06) 
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:francogarciadev@outlook.es)
 
-## <p align="center">💻 Tech Stack:
+## 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,tailwind,php,py,)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=windows,vscode,powershell,git,github)](https://skillicons.dev)</p>
+[![My Skills](https://skillicons.dev/icons?i=windows,vscode,powershell,git,github)](https://skillicons.dev)
 
 
 ### 🔝 Top Contributed Repo
