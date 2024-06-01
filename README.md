@@ -8,7 +8,7 @@ I'm a passionate student of Computer Science and Development, in this profile yo
 
 ## 🌐 Socials
 [![Email](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/garciafranco06) 
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:francogarciadev@outlook.es)
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:grcfranco06@gmail.com)
 
 ## 💻 Tech Stack / Currently learning
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,py)](https://skillicons.dev)<br>
