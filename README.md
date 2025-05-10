@@ -14,7 +14,7 @@ I'm a passionate self-taught student of Computer Science and Front-end Developme
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,astro,react,bootstrap,tailwind,php,py,mysql,nodejs,bun)](https://skillicons.dev)<br>
 
 ## 🔧 Tools and OS
-[![My Tools](https://skillicons.dev/icons?i=windows,vscode,powershell,git,github)](https://skillicons.dev)<br>
+[![My Tools](https://skillicons.dev/icons?i=windows,vscode,powershell,git,github,figma,stackoverflow,notion)](https://skillicons.dev)<br>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=grcfranco06&limit=5&theme=dark&combine_all_yearly_contributions=true)
