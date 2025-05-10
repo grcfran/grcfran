@@ -7,7 +7,7 @@ Welcome to my GitHub profile!
 I'm a passionate self-taught student of Computer Science and Front-end Development, in this profile you can find all my projects, their descriptions and repositories. I am currently focused on perfecting all those skills I have acquired over time. Feel free to contact me via email or LinkedIn.
 
 ## 🌐 Socials
-[![Email](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/francogarcia06/) 
+[![Email](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/grcfranco/) 
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:grcfranco06@gmail.com)
 
 ## 💻 Tech Stack / Currently learning
