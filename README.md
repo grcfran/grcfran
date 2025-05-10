@@ -11,7 +11,7 @@ I'm a passionate self-taught student of Computer Science and Front-end Developme
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:grcfranco06@gmail.com)
 
 ## 💻 Tech Stack / Currently learning
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,astro,react,bootstrap,tailwind,php,py,sql)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,astro,react,bootstrap,tailwind,php,py,mysql,nodejs,bun)](https://skillicons.dev)<br>
 
 ## 🔧 Tools and OS
 [![My Tools](https://skillicons.dev/icons?i=windows,vscode,powershell,git,github)](https://skillicons.dev)<br>
