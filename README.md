@@ -1,5 +1,5 @@
 <h1 align="center">Hi!👋 I'm Franco García</h1>
-<h3 align="center">A passionate developer from Uruguay (🇺🇾)</h3>
+<h3 align="center">A passionate frontend developer from Uruguay (🇺🇾)</h3>
 
 # 🙋 About Me
 Welcome to my GitHub profile! 
@@ -17,6 +17,6 @@ I'm a passionate self-taught student of Computer Science and Front-end Developme
 [![My Tools](https://skillicons.dev/icons?i=windows,vscode,powershell,git,github,figma,stackoverflow,notion)](https://skillicons.dev)<br>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=grcfranco06&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=grcfranco&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
