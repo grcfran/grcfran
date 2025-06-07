@@ -4,14 +4,14 @@
 # 🙋 Sobre mí
 ¡Bienvenido a mi perfil!
 
-Soy un estudiante de desarrollo web apasionado por la tecnología y en constante aprendizaje. Actualmente, me estoy especializando en nuevas herramientas y frameworks para crear aplicaciones modernas, rápidas y escalables. Me gusta aprender cada día y compartir mis proyectos con la comunidad. <br>
+Soy un estudiante de desarrollo web apasionado por la tecnología y en constante aprendizaje. Actualmente, me estoy especializando en nuevas herramientas y frameworks para crear aplicaciones modernas, rápidas y escalables. Me gusta aprender cada día y compartir mis proyectos con la comunidad. <br> <br>
 Además de programar, me gusta involucrarme en proyectos personales que me desafíen a aplicar lo que aprendo y a descubrir nuevas metodologías. Estoy abierto a colaborar en nuevos proyectos, ¡siéntete libre de contactarme!
 
 ## 🌐 ¡Estemos en contacto!
 [![Email](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/grcfranco/) 
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:grcfranco06@gmail.com)
 
-## 💻 Stack de Tecnologías
+## 💻 Mi stack de tecnologías
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,astro,react,bootstrap,tailwind,php,py,mysql,nodejs,bun)](https://skillicons.dev)<br>
 
 ## 🔧 Herramientas
