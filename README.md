@@ -4,7 +4,7 @@
 # 🙋 Sobre mí
 ¡Bienvenido a mi perfil!
 
-Soy un estudiante de desarrollo web apasionado por la tecnología y en constante aprendizaje. Actualmente, me estoy especializando en nuevas herramientas y frameworks para crear aplicaciones modernas, rápidas y escalables. Me gusta aprender cada día y compartir mis proyectos con la comunidad. 
+Soy un estudiante de desarrollo web apasionado por la tecnología y en constante aprendizaje. Actualmente, me estoy especializando en nuevas herramientas y frameworks para crear aplicaciones modernas, rápidas y escalables. Me gusta aprender cada día y compartir mis proyectos con la comunidad. <br>
 Además de programar, me gusta involucrarme en proyectos personales que me desafíen a aplicar lo que aprendo y a descubrir nuevas metodologías. Estoy abierto a colaborar en nuevos proyectos, ¡siéntete libre de contactarme!
 
 ## 🌐 ¡Estémos en contacto!
